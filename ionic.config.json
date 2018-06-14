@@ -1,0 +1,8 @@
+{
+  "name": "ionicuikitchensink",
+  "app_id": "c31d038a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
